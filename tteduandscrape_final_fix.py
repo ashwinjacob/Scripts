@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Final comprehensive script to parse DOCX timetable and extract all course-faculty assignments
+AI generated script to parse DOCX timetable and extract all course-faculty assignments
 including lab courses from paragraphs
 """
 
